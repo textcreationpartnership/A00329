@@ -36,9 +36,16 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-[Ye dyaloge called Funus]Colloquia. SelectionsErasmus, Desiderius, d. 1536.1534Approx. 56 KB of XML-
+•
+theyr hope in the mercy of our lorde, & reprehendynge (as it were somwhat in my way) ye grete foly
+1. ¶Mercolphus. Phedrus. Pulcher.
+
+1. ¶Erasmus.
+
+1. ¶A good and a godly admonicion or warnynge, very behouefull for euery chrysten man to loke vpon.
+
 #####Back#####
-[Ye dyaloge called Funus]Colloquia. SelectionsErasmus, Desiderius, d. 1536.1534Approx. 56 KB of XML-
+¶At London, by Robert copland, for Iohan Byddell / otherwyse Salysbury. the .v. daye of Ianuary, AndRobert Coplande.
 **Types of content**
 
   * There are 147 **drama** parts! This is **prose drama**.
